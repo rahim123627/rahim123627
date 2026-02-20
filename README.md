@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 你好呀，我是 Rahim
 
-<!--
-**rahim123627/rahim123627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 计算机科学与技术 大一
+🌱 正在努力学习编程
+✨ 每天进步一点点
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 我正在学习
+- 💻 **编程语言**：C++（正在啃）、Python（刚入门）
+- 🛠️ **工具**：VS Code、Git（还在熟悉中）
+
+---
+
+## 🚀 我的小目标
+- [x] 学会用Markdown写文档 ✅
+- [x] 搭建自己的GitHub主页 ✅
+- [ ] 完成第一个C++小项目（计算器/图书管理系统）
+- [ ] 用HTML+CSS写一个个人介绍网页
+
+---
+
+## 📊 我的GitHub动态
+![Rahim的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide=contribs,prs)
+
+![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+
+---
+
+
+⭐️ 感谢来访！我正在努力成为一名合格的程序员，欢迎一起交流学习～
